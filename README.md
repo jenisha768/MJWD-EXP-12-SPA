@@ -1,5 +1,8 @@
 # Experiment 12 – React Single Page Application (SPA)
 
+**Name:** JENISHA TEENA ROSE F  
+**Register Number:** 2305001010  
+
 ## Aim
 To develop a Single Page Application using React Router and navigate between Home, About and Contact pages without reloading the entire browser page.
 
